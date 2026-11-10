@@ -157,7 +157,7 @@
       <artifactId>json</artifactId>
       <groupId>org.json</groupId>
       <scope>compile</scope>
-      <version>20251224</version>
+      <version>20260719</version>
     </dependency>
 
     <!-- Lombok -->
